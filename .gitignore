@@ -3,3 +3,10 @@
 ################################################################################
 
 /PipeLineDemo/.vs/PipeLineDemo/v16/Server/sqlite3/storage.ide-wal
+/PipeLineDemo/.vs/PipeLineDemo/v16/Server/sqlite3/storage.ide-shm
+/PipeLineDemo/.vs/PipeLineDemo/v16/Server/sqlite3/storage.ide
+/PipeLineDemo/.vs/PipeLineDemo/v16/Server/sqlite3/db.lock
+/PipeLineDemo/.vs/PipeLineDemo/v16/.suo
+*.dtbcache
+/PipeLineDemo/PipeLineDemoConsole/bin/Debug/netcoreapp2.2
+/PipeLineDemo/PipeLineDemoConsole/obj
